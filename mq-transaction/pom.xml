@@ -27,7 +27,7 @@
         <dubbo-spring-boot-starter.version>0.1.0</dubbo-spring-boot-starter.version>
         <zkclient.version>0.10</zkclient.version>
         <commons-lang3.version>3.7</commons-lang3.version>
-        <fastjson.version>1.2.28</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
 
         <!--plugin-->
